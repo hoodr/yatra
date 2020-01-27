@@ -1,3 +1,10 @@
+### Yet Another Test React App
+
+Ever thought, "You know, I should probably set up a client to test this"? Well lads and lasses, I present to you YATRA, "Yet Another Test React App." Named in the theme of [YA](https://en.wikipedia.org/wiki/Yet_another), the goal of this repo is to have a functional test front end in the time it takes you to google search `create react app github`. This repo will include most of the packages  one might use in production that way anyone can easily spin up a `POC` and use it for whatever they might want it for.
+
+#### Note: as of 01/25/20 I haven't had any time to actually think about what what packages to add... so this is also a `POC`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
